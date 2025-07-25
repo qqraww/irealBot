@@ -1,0 +1,101 @@
+[
+  {
+    "model": "iphone 15 pro max",
+    "variants": [
+      {"memory": "256GB", "color": "белый-титановый", "price": 92000},
+      {"memory": "256GB", "color": "серый-титановый", "price": 104000},
+      {"memory": "256GB", "color": "синий-титановый", "price": 92000},
+      {"memory": "256GB", "color": "черный-титановый", "price": 135000},
+      {"memory": "512GB", "color": "белый-титановый", "price": 116000},
+      {"memory": "512GB", "color": "серый-титановый", "price": 134000},
+      {"memory": "512GB", "color": "синий-титановый", "price": 94000},
+      {"memory": "512GB", "color": "черный-титановый", "price": 117000},
+      {"memory": "1TB", "color": "белый-титановый", "price": 141000},
+      {"memory": "1TB", "color": "серый-титановый", "price": 181000},
+      {"memory": "1TB", "color": "синий-титановый", "price": 141000},
+      {"memory": "1TB", "color": "черный-титановый", "price": 137000}
+    ]
+  },
+  {
+    "model": "iphone 16 pro max",
+    "variants": [
+      {"memory": "256GB", "color": "белый", "price": 112000},
+      {"memory": "256GB", "color": "золотистый", "price": 112000},
+      {"memory": "256GB", "color": "серебристый", "price": 127000},
+      {"memory": "256GB", "color": "чёрный", "price": 114000},
+      {"memory": "512GB", "color": "белый", "price": 131000},
+      {"memory": "512GB", "color": "золотистый", "price": 133000},
+      {"memory": "512GB", "color": "серебристый", "price": 138000},
+      {"memory": "512GB", "color": "чёрный", "price": 134000},
+      {"memory": "1TB", "color": "белый", "price": 146000},
+      {"memory": "1TB", "color": "золотистый", "price": 139000},
+      {"memory": "1TB", "color": "серебристый", "price": 152000},
+      {"memory": "1TB", "color": "чёрный", "price": 147000}
+    ]
+  },
+  {
+    "model": "iphone 14",
+    "variants": [
+      {"memory": "128GB", "color": "чёрный (midnight)", "price": 55000},
+      {"memory": "256GB", "color": "чёрный (midnight)", "price": 67000},
+      {"memory": "128GB", "color": "жёлтый (yellow)", "price": 55000},
+      {"memory": "256GB", "color": "белый (starlight)", "price": 57000}
+    ]
+  },
+  {
+    "model": "iphone 13",
+    "variants": [
+      {"memory": "128GB", "color": "белый (starlight)", "price": 52000},
+      {"memory": "128GB", "color": "чёрный (midnight)", "price": 49000}
+    ]
+  },
+  {
+    "model": "iphone 11",
+    "variants": [
+      {"memory": "64GB", "color": "черный", "price": 40000},
+      {"memory": "128GB", "color": "белый", "price": 45000}
+    ]
+  },
+  {
+    "model": "iphone x",
+    "variants": [
+      {"memory": "64GB", "color": "серебристый", "price": 38000},
+      {"memory": "256GB", "color": "серебристый", "price": 50000}
+    ]
+  },
+  {
+    "model": "iphone 12 pro",
+    "variants": [
+      {"memory": "128GB", "color": "графитовый", "price": 60000},
+      {"memory": "256GB", "color": "синий", "price": 65000}
+    ]
+  },
+  {
+    "model": "galaxy s24",
+    "variants": [
+      {"memory": "128GB", "color": "чёрный", "price": 51000}
+    ]
+  },
+  {
+    "model": "nothing phone 3a",
+    "variants": [
+      {"memory": "128GB", "color": "чёрный", "price": 37000},
+      {"memory": "128GB", "color": "белый", "price": 40000}
+    ]
+  },
+  {
+    "model": "nothing phone 3a pro",
+    "variants": [
+      {"memory": "256GB", "color": "чёрный", "price": 49000},
+      {"memory": "256GB", "color": "белый", "price": 53000}
+    ]
+  },
+  {
+    "model": "honor x7c",
+    "variants": [
+      {"memory": "128GB", "color": "белый", "price": 23000},
+      {"memory": "128GB", "color": "чёрный", "price": 23000},
+      {"memory": "128GB", "color": "зелёный", "price": 23000}
+    ]
+  }
+]
